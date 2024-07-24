@@ -16,16 +16,7 @@ The Robotics Hand Gripper is a 3D-printed device designed to mimic the functiona
 
 ## Images
 
-![Robotics Hand Gripper 1](![351607742-7b4f102a-6a26-4517-85a1-ea97c6d5dd5f](https://github.com/user-attachments/assets/03ed4e38-d0bd-4a69-b29a-604b73979972)
-)
-![Robotics Hand Gripper 2](![351607921-05b2ac5a-f472-45a7-b998-0120ed56abde](https://github.com/user-attachments/assets/8ed17307-9ee1-45e7-bb79-5ff43d018a10)
-)
-![Robotics Hand Gripper 3](![351608734-4dfe675d-e301-44d7-b4cc-fdeb4d369e35](https://github.com/user-attachments/assets/0406dc2e-1328-4cde-ac6e-de4bbf0600ad)
-)
-![Robotics Hand Gripper 4](![351608884-05229031-804b-40a9-a4a9-4153acfc3e39](https://github.com/user-attachments/assets/550c933e-9789-405f-85f2-1e4fa463325c)
-)
-![Robotics Hand Gripper 5](![351609205-144dc4ab-a288-423a-9d19-b723554d8539](https://github.com/user-attachments/assets/b2f0ae5d-801e-4473-be9f-e019d3301a46)
-)
+![351609205-144dc4ab-a288-423a-9d19-b723554d8539](https://github.com/user-attachments/assets/71d9457d-c88d-4291-a3b4-649fb1a70c56)
 
 ## Features
 
