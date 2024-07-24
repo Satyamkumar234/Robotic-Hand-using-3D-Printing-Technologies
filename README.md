@@ -15,8 +15,13 @@ Welcome to the Robotics Hand Gripper project! This repository is dedicated to de
 The Robotics Hand Gripper is a 3D-printed device designed to mimic the functionality of a human hand. It features multiple joints and fingers, allowing it to grasp and manipulate objects of various shapes and sizes. This project is ideal for educational purposes, robotics enthusiasts, and anyone interested in exploring the capabilities of 3D printing and robotics.
 
 ## Images
+![351607742-7b4f102a-6a26-4517-85a1-ea97c6d5dd5f](https://github.com/user-attachments/assets/c1617ab1-e7cf-4e7e-9fbc-d539be01f68a)
+![351607921-05b2ac5a-f472-45a7-b998-0120ed56abde](https://github.com/user-attachments/assets/9cbd98b3-3ca4-4850-a8aa-bdc45d04ad3f)
+![351608734-4dfe675d-e301-44d7-b4cc-fdeb4d369e35](https://github.com/user-attachments/assets/a5b87968-6f76-4355-8a6d-b88d509ad1a6)
+![351608884-05229031-804b-40a9-a4a9-4153acfc3e39](https://github.com/user-attachments/assets/8a43e2b4-53cf-49fe-a656-3408a7a88025)
 
 ![351609205-144dc4ab-a288-423a-9d19-b723554d8539](https://github.com/user-attachments/assets/71d9457d-c88d-4291-a3b4-649fb1a70c56)
+
 
 ## Features
 
